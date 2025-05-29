@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Location Tracker — The Sneaky Geolocator
+# Location Tracker — The Sneaky Geolocator
 
 This Python script *covertly* tricks users into handing over their geolocation — all under the guise of a simple web prompt.
 
