@@ -20,8 +20,8 @@ This Python script *covertly* tricks users into handing over their geolocation â
 
 1.  Clone this repo
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    https://github.com/Sayan2012/location-tracker.git
+    cd location-tracker
        ```
 
  2.  **Note:** Please install required Python packages before running the app:
